@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/26159718/README.1.md)
 # TrueRecord — Grievance Reporting Portal
 
 > A self-contained, privacy-first workplace grievance reporting tool. No server required. No framework setup. Just open `index.html`.
