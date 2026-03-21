@@ -1,3 +1,4 @@
+[README (1).md](https://github.com/user-attachments/files/26159718/README.1.md)
 # TrueRecord — Grievance Reporting Portal
 
 > A self-contained, privacy-first workplace grievance reporting tool. No server required. No framework setup. Just open `index.html`.
@@ -46,8 +47,8 @@ Download `index.html` and open it in any modern browser — the reporting form l
 1. Fork this repository
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, `/ (root)`
-4. Your landing page will be live at `https://<your-username>.github.io/<repo-name>/landing.html`
-5. The reporting form will be at `https://<your-username>.github.io/<repo-name>/index.html`
+4. Your landing page will be live at `https://samirsaad786.github.io/truerecord/landing.html`
+5. The reporting form will be at `https://samirsaad786.github.io/truerecord/`
 
 ---
 
