@@ -46,8 +46,8 @@ Download `index.html` and open it in any modern browser — the reporting form l
 1. Fork this repository
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, `/ (root)`
-4. Your landing page will be live at `https://samirsaad786.github.io/truerecord/landing.html`
-5. The reporting form will be at `https://samirsaad786.github.io/truerecord/`
+4. Your landing page will be live at `https://samirsaad786.github.io/truerecord/app.html`
+5. The reporting form will be at `https://samirsaad786.github.io/truerecord/app.html`
 
 ---
 
